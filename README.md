@@ -9,7 +9,7 @@ Soy un desarrollador Fullstack apasionado por PHP, las buenas prácticas y la au
 
 ### 🌱 Actualmente estoy aprendiendo...
 
-- Patrones de disieño. 
+- Ofuscacion .
 - Autenticacion.
 - Uso de cookies y sesiones.
 - Microservicios.
@@ -21,7 +21,7 @@ Soy un desarrollador Fullstack apasionado por PHP, las buenas prácticas y la au
 
 - Javascript
 - C#
-- API Rest
+
 
 ### 🤝 ¿Colaboramos?
 
