@@ -1,16 +1,11 @@
-###  👋 ¡Hola! Soy Gabriel
-Soy un desarrollador Fullstack apasionado por PHP, las buenas prácticas y la automatización. Me encanta construir soluciones eficientes y mantener el código limpio.
-
-### 🔭 Actualmente estoy trabajando en...
-
-- Un Chatbot web sobre consultas de yoga
-- Actulizacion de Aplicaciones web
-- Reorganizacion de licitacionciones 
+###  👋 Soy un profesional del area IT , orientado a la programacion como fullstack developer continuando  con mi formacion  de pre-grado como analista programador universitario 
 
 ### 🌱 Actualmente estoy aprendiendo...
 
 - Ofuscacion .
 - Autenticacion.
+- cifrado de informacion
+- hasehos 
 - Uso de cookies y sesiones.
 - Microservicios.
 - Pasarelas de pago.
@@ -20,16 +15,11 @@ Soy un desarrollador Fullstack apasionado por PHP, las buenas prácticas y la au
 ### 🔬 Explorando tecnologías como...
 
 - Javascript
+- node.js
+- express
 - C#
 
-
-### 🤝 ¿Colaboramos?
-
 Estoy abierto a proyectos open source, pair programming o mentorías. ¡Envíame un mensaje!
-
-
-###  🚀 Proyectos destacados
-
 
 <!--
 **gabriel0339/gabriel0339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
