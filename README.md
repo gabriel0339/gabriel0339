@@ -18,6 +18,8 @@
 - node.js
 - express
 - C#
+- Vue.js
+- express.js
 
 Estoy abierto a proyectos open source, pair programming o mentorías. ¡Envíame un mensaje!
 
