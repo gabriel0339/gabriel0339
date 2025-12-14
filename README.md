@@ -5,18 +5,16 @@
 - Ofuscacion .
 - Autenticacion.
 - cifrado de informacion
-- hasehos 
+- hasheos 
 - Uso de cookies y sesiones.
 - Microservicios.
 - Pasarelas de pago.
-- Animaciones  complejas. 
 
 
 ### 🔬 Explorando tecnologías como...
 
 - Javascript
 - node.js
-- express
 - C#
 - Vue.js
 - express.js
